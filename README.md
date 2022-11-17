@@ -1,7 +1,6 @@
 ### Olá, sou Damien Felipe, Desenvolvedor Front-end
 
 - 🌱 Estou atuamente aprendendo Nodejs e Reactjs
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/mienblack">
