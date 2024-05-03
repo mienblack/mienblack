@@ -6,7 +6,7 @@
 
 <div>
 - 🌱 Estou atuamente aprendendo Nodejs e Reactjs
-  <br><br><br><br><br><br><br>
+  <br><br><br>
 </div>
  
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mienblack&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mienblack&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mienblack&theme=nord_dark) |
