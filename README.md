@@ -6,7 +6,6 @@
 
 <div>
 - 🌱 Estou atuamente aprendendo Nodejs e Reactjs
-<img align="right" alt="mienPic" height="150" style="border-radius:50px;" src="./mienDesenho.jpg">
   <br><br><br><br><br><br><br>
 </div>
  
