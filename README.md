@@ -1,4 +1,4 @@
-### Olá, sou Damien Felipe, Desenvolvedor Front-end
+### Hello, I'm Damien Felipe, Data Analyst
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/damien-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -7,7 +7,7 @@
 </div>
 
 <div>
-- 🌱 Estou atuamente aprendendo Nodejs e Reactjs
+- 🌱I'm focusing now on python for data analysis and machine learning
   <br><br><br>
 </div>
  
